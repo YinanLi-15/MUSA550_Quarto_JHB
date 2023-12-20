@@ -1,0 +1,12 @@
+---
+title: "Conclusions"
+---
+
+## Limitations
+
+We recognize the limitations inherent in our models. Originally, our intention was to compare 2019 with 2023 to better capture post-COVID characteristics. However, due to the unavailability of OD-distance data beyond 2021, we had to resort to using 2019 for comparison. Unfortunately, the changes in home distribution between 2019 and 2021 are not markedly significant. We attribute this to the lag in economic impacts on residence, given that most housing contracts are long-term. Consequently, the 2021 data may not entirely reflect the full effects of the pandemic, potentially contributing to our model's modest R-squared value of 0.24.
+
+## Conclusions
+
+Despite these limitations, our findings carry meaningful implications. They underscore the substantial impact of the pandemic on the job market, particularly affecting soon-to-be graduates like us. Moreover, the interconnected economic ecosystem in the NYC metro region transcends the city's physical boundaries. Shifts in regional factors such as job positions, median housing value, and population density influence the delicate balance between employment and housing, impacting affordability, commuting patterns, and transportation infrastructure. To proactively address future development, we recommend that the government strategically increase job opportunities and housing options outside the city, particularly in locations with convenient transportation. This approach could alleviate pressure on the transportation network while simultaneously enhancing employment prospects in various regions.
+

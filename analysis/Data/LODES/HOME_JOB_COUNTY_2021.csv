@@ -1,0 +1,50 @@
+w_countyfp,h_countyfp,S000,home_county_name,work_county_name
+005,005,123562,Bronx,Bronx
+005,017,579,Jersey City,Bronx
+005,047,24193,Brooklyn,Bronx
+005,059,13977,Long Island,Bronx
+005,061,29671,Manhattan,Bronx
+005,081,33801,Queens,Bronx
+005,085,4921,Staten Island,Bronx
+017,005,575,Bronx,Jersey City
+017,017,13732,Jersey City,Jersey City
+017,047,4217,Brooklyn,Jersey City
+017,059,589,Long Island,Jersey City
+017,061,2938,Manhattan,Jersey City
+017,081,1816,Queens,Jersey City
+017,085,1269,Staten Island,Jersey City
+047,005,55085,Bronx,Brooklyn
+047,017,3620,Jersey City,Brooklyn
+047,047,378522,Brooklyn,Brooklyn
+047,059,36401,Long Island,Brooklyn
+047,061,50501,Manhattan,Brooklyn
+047,081,121225,Queens,Brooklyn
+047,085,37436,Staten Island,Brooklyn
+059,005,15049,Bronx,Long Island
+059,017,624,Jersey City,Long Island
+059,047,25577,Brooklyn,Long Island
+059,059,282412,Long Island,Long Island
+059,061,11812,Manhattan,Long Island
+059,081,85111,Queens,Long Island
+059,085,5746,Staten Island,Long Island
+061,005,203128,Bronx,Manhattan
+061,017,30351,Jersey City,Manhattan
+061,047,445081,Brooklyn,Manhattan
+061,059,112894,Long Island,Manhattan
+061,061,522519,Manhattan,Manhattan
+061,081,352317,Queens,Manhattan
+061,085,55522,Staten Island,Manhattan
+081,005,52955,Bronx,Queens
+081,017,1864,Jersey City,Queens
+081,047,108262,Brooklyn,Queens
+081,059,69800,Long Island,Queens
+081,061,39852,Manhattan,Queens
+081,081,279026,Queens,Queens
+081,085,12927,Staten Island,Queens
+085,005,3944,Bronx,Staten Island
+085,017,576,Jersey City,Staten Island
+085,047,15570,Brooklyn,Staten Island
+085,059,4122,Long Island,Staten Island
+085,061,3641,Manhattan,Staten Island
+085,081,6986,Queens,Staten Island
+085,085,50086,Staten Island,Staten Island

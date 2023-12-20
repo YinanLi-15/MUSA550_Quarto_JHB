@@ -1,0 +1,51 @@
+project:
+  type: website
+  output-dir: docs
+  preview:
+    port: 3333
+
+website:
+  title: "Does NYC Metro Region Have a Home-job Balance?"
+  site-url: "https://nyc_home-job_balance.github.io/quarto-website-template" 
+  repo-url: https://github.com/YinanLi-15/MUSA550_LLC_Quarto 
+  repo-actions: [source]
+
+  page-footer:
+    right: "This page is built with ❤️ and [Quarto](https://quarto.org/)."
+    left: "&copy; CC-Yinan Li, 2023"
+
+  sidebar:
+    logo: "analysis/ML/Sankey_Diagram.jpg"
+    pinned: true
+    align: center
+    tools: 
+      - icon: github
+        href: https://github.com/MUSA-550-Fall-2023/
+        text: "MUSA 550 GitHub"   
+
+    style: "docked"
+    search: true
+    collapse-level: 2
+    contents:
+      - href: index.qmd
+        text: Introduction
+      - about.qmd
+      - section: analysis/index.qmd
+        contents:
+          - analysis/1-Home_Job_Distribution.ipynb
+          - analysis/2-Commute_Pattern.ipynb
+          - analysis/3-ML.ipynb
+      - conclusion.qmd
+
+format:
+  html:
+    highlight-style: solarized
+    theme: cosmo
+    css: styles.css
+    code-copy: true
+    code-overflow: wrap
+    toc: true
+
+
+
+

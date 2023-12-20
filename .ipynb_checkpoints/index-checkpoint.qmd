@@ -1,0 +1,40 @@
+---
+title: "Does NYC Metro Region Have Home-job Balance?"
+subtitle: "MUSA 550 Final Project | Jingyi Cai, Shuting Li, Yinan Li"
+---
+
+![](images/home_hob_county.jpg){width=6in}
+
+## Background
+
+Following the establishment and expansion of the commuter rail system in the early 1900s and the consequent growth of the regional highway network, New York City's economic progress became closely entwined with the housing and population expansion in the surrounding region. NYC depends on a real estate market stretching beyond its city limits. The workforce in New York City comprises 8.8 million individuals, (2022 Labor Market Snapshot of New York, NYATEP) with 80% residing within the city's five boroughs. The remaining 20%, live outside NYC, dispersed across other areas within the broader metropolitan New York region. 
+
+To study and predict the home-job mismatch trend, we would like to explore its geographic distribution, temporal trends, and in particular, the contributing factors, such as housing prices, job opportunities, and the pandemic. In this project, we attempt to use data analytics and machine learning methods to build a job geography model, explore the mechanisms, and predict future trends.
+
+## The Questions We Want to Explore
+
+- How does the Pandemic change the home and job distribution in the NYC Metro Region? (2019 vs. 2021)
+- What is the commuting pattern between boroughs/counties?
+- What variable contributes to the job-home mismatch?
+
+## Geographical Boundary
+
+- **NYC 5 boroughs:**
+    - Manhattan: New York County, New York - COUNTYFP = 061
+    - Brooklyn: Kings County, New York - COUNTYFP = 047
+    - Bronx: Bronx County, New York - COUNTYFP = 005
+    - Queens: Queens County, New York - COUNTYFP = 081
+    - Staten Island: Richmond County, New York - COUNTYFP = 085
+
+- **Outside NYC counties:**
+    - Jersey City: Hudson County, New Jersey - COUNTYFP = 017 (State code = 34)
+    - Long Island: Nassau County, New York - COUNTYFP = 059
+    
+- **Geographical level: **by census tract
+
+![](images/boundary_map.png){width=10in}
+
+
+
+
+ 
