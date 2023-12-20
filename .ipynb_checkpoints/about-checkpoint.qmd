@@ -8,7 +8,7 @@ title: "About Us"
 
 <!-- Left column has a width of 4/12 and shows a picture of me -->
 ::: {.g-col-4}
-![](images/nickhand-profile.jpg){width=3in}
+![](images/Jingyi_Cai.jpg){width=3in}
 :::
 
 <!-- Text gets a column with width 8/12 -->
@@ -16,12 +16,14 @@ title: "About Us"
 
 **Jingyi Cai**
 
-As a graduate student at UPenn, I'm immersed in the dynamic world of city planning with a diverse skill set encompassing planning, data analysis, design, and mapping. I care about the sustainable economic development, vibrant public space, and the affordability and equity of city life. I believe city planning is not only about the future, but roots in the past and present. Thus,  I'm driven to uncover the untold stories that shape our cities and help cities imagine and build a brighter vision by policy making, planning and design.
+As a graduate student specializing in city planning at UPenn, my enthusiasm lies at the intersection of design, data analysis, and visualization. I am dedicated to designing with a focus on equality and enhancing urban life. 
 
-Besides growing to be a city planner, I'm also a keen traveler, whose footprint has covered 4 continents, 17 countries and 100+ cities.
+Currently, my research actively explores sustainable development, urban infrastructure, and public policy, aiming to shape the future of cities by employing spatial data analysis techniques.
+
+Besides, I love travel, food and violin.
 
 You can find more 
-information about me on my [LinkedIn](http://linkedin.com/in/yinan-li-6974491a3).
+information about me on my [LinkedIn](https://www.linkedin.com/in/jingyi-cai-9b9085255/).
 
 -----------------------------------------------------------------------
 
