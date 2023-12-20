@@ -1,7 +1,10 @@
-# Quarto website template
+#  NYC Metro Region Home-job Balance Exploration
 
-A template repository to use as a starting point for a public website describing
-the analysis and results the course's final project. The website uses
-Quarto to generate content and GitHub Pages to host the website.
+MUSA 550 Final Project | Jingyi Cai, Shuting Li, Yinan Li
 
-The published site for this example repository is available at: [https://musa-550-fall-2023.github.io/quarto-website-template/](https://musa-550-fall-2023.github.io/quarto-website-template/).
+The Questions We Want to Explore:
+- How does the Pandemic change the home and job distribution in the NYC Metro Region? (2019 vs. 2021)
+- What is the commuting pattern between boroughs/counties?
+- What variable contributes to the job-home mismatch?
+
+The published site for this example repository is available at: [https://musa-550-fall-2023.github.io/quarto-website-template/](https://yinanli-15.github.io/MUSA550_Quarto_JHB/)
