@@ -20,7 +20,7 @@ website:
     align: center
     tools: 
       - icon: github
-        href: https://github.com/MUSA-550-Fall-2023/
+        href: https://github.com/YinanLi-15/MUSA550_Quarto_JHB
         text: "MUSA 550 GitHub"   
 
     style: "docked"
