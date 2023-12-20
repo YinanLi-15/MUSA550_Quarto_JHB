@@ -7,7 +7,7 @@ project:
 website:
   title: "Does NYC Metro Region Have a Home-job Balance?"
   site-url: "https://YinanLi-15.github.io/MUSA550_Quarto_JHB" 
-  repo-url: https://github.com/MUSA-550-Fall-2023/final-project-jingyi_yinan_shuting
+  repo-url: https://github.com/YinanLi-15/MUSA550_Quarto_JHB
   repo-actions: [source]
 
   page-footer:
