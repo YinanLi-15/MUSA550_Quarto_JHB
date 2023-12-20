@@ -1,1 +1,1 @@
-Sitemap: https://nyc_home-job_balance.github.io/quarto-website-template/sitemap.xml
+Sitemap: https://YinanLi-15.github.io/MUSA550_Quarto_JHB/sitemap.xml
